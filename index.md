@@ -3,11 +3,7 @@
 layout: col-sidebar
 title: OWASP Armenia
 tags: example-tag
-level: 0
-
 region: Europe
-
-auto-migrated: 1
 
 ---
 

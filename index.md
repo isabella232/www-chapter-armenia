@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Armenia
-tags: example-tag
+tags: armbounty
 region: Europe
 
 ---

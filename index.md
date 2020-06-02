@@ -6,39 +6,34 @@ tags: armenia
 region: Europe
 
 ---
+<!-- rebuild -->
 
 ## Welcome
-Welcome to OWASP Armenia.
 
-Welcome to the Armenia chapter homepage. Follow chapter news on Facebook
+Welcome to the Armenia chapter homepage. Follow chapter news on [our Facebook
+page](https://www.facebook.com/groups/OWASP.Armenia/).
 
-## Local News
-- [Our Facebook Page](https://www.facebook.com/groups/OWASP.Armenia/)
-- Everyone is welcome to join us at our chapter meetings.
+## Meetings
 
-## Chapter Meetings
+The entrance to events is open and free. Everyone is welcome to join us at our
+chapter meetings.
 
-\----OWASP meetup
+## Projects
 
-October 4, 2019, at AUA, Room 398E.
+Besides regular meetings OWASP Armenia also organizes the Armenia's leading
+security conference ArmSec starting from 2014 and regular bounties.
 
-  - From Cloud to Containers - Cassio Goldshmidt
-  - ArmSec 2019 readiness
-
------
-
-\----**ArmBounty** CTF/BugBounty June 29 at Mergelyan Cluster.
-
-OWASP Armenia and ArmSec community organize bug bounty for local
-vendors.
-
-<https://armbounty.com/>
-
-
-----OWASP meetup
-
-Jan 23, 2018, at The Italian on Hanrapeturyan str.
-
-  - ArmSec foundation and OWASP cooperation
-  - ArmSec 2019 readiness
-  - round table
+<table cellpadding="15" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://www.armsec.org">
+        <img src="assets/images/armsec.png" alt="ArmSec"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.armbounty.com">
+        <img src="assets/images/armbounty.png" alt="ArmBounty"/>
+      </a>
+    </td>
+  </tr>
+</table>

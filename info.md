@@ -1,6 +1,5 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* Armenia / Yerevan
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Facebook](https://www.facebook.com/groups/OWASP.Armenia/)

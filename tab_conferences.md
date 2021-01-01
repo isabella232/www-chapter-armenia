@@ -30,6 +30,8 @@ Annual Information Security Conference
 
 ### OWASP ArmSec 23 November, 2019
 
+<img src="assets/images/2019_armsec.jpg" alt="ArmSec2019" width="300"/>
+
 6th annual information security conference ARMSec 2019
 American University of Armenia
 40 Baghramyan Ave., 0019 Yerevan, Armenia
@@ -38,6 +40,8 @@ Agenda and other details are at:
 
 
 ### OWASP ArmSec 24 November, 2018
+
+<img src="assets/images/2018_armsec.jpg" alt="ArmSec2018" width="300"/>
 
 Fifth annual information security conference ARMSec 2018
 American University of Armenia
@@ -55,6 +59,8 @@ Agenda and other details are at:
 - [Facebook Event](https://www.facebook.com/events/2067426276868171/)
 
 ### OWASP Armenia ARMSEC 2016
+
+<img src="assets/images/2016_armsec.jpg" alt="ArmSec2016" width="300"/>
 
 ARMSEC 2016 OWASP Security Conference - 17 September, 2016
 Location: American University of Armenia (40 Marshal Baghramyan Ave,

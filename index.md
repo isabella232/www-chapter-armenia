@@ -8,6 +8,8 @@ region: Europe
 ---
 <!-- rebuild -->
 
+<img src="assets/images/owasp_armenia.jpg" alt="ArmBounty"/>
+
 ## Welcome
 
 Welcome to the Armenia chapter homepage. Follow chapter news on [our Facebook

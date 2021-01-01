@@ -8,7 +8,7 @@ region: Europe
 ---
 <!-- rebuild -->
 
-<img src="assets/images/owasp_armenia.jpg" alt="ArmBounty"/>
+<img src="assets/images/owasp_armenia_logo.png" alt="ArmBounty"/>
 
 ## Welcome
 

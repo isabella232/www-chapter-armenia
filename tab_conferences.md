@@ -52,6 +52,8 @@ Agenda and other details are at:
 
 ### OWASP Armenia ARMSEC 2017
 
+<img src="assets/images/2017_armsec.jpg" alt="ArmSec2017" width="300"/>
+
 ARMSEC 2017 OWASP Security Conference - 28 September, 2016
 Location: American University of Armenia (40 Marshal Baghramyan Ave,
 Yerevan 0019, Armenia)

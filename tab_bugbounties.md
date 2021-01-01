@@ -16,19 +16,15 @@ for government and private sector.
 
 [Our Web Page](https://armbounty.com/)
 
-##### **ArmBounty** CTF/BugBounty 
-Feb 29, 2020 at Instigate.
+#### **ArmBounty** CTF/BugBounties
 
-##### **ArmBounty** CTF/BugBounty 
-Jan 12, 2020 at Instigate.
+- Feb 29, 2020 at Instigate.
 
-##### **ArmBounty** CTF/BugBounty 
+- Jan 12, 2020 at Instigate.
 
-Nov 2019 at Mergelyan Cluster.
+- Nov 2019 at Mergelyan Cluster.
 
-##### **ArmBounty** CTF/BugBounty 
-
-June 29, 2019 at Mergelyan Cluster.
+- June 29, 2019 at Mergelyan Cluster.
 
 ##### **ArmCTF 2018**
 
